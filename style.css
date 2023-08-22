@@ -85,5 +85,11 @@
     font-size: 15px;
     font-weight: 600;
 }
-
+.blink img{
+    width: 25%;
+    border-radius: 50%;
+}
+.blink img:hover{
+    transform:translate(-30px);
+}
 /* END */
